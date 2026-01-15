@@ -1,0 +1,4 @@
+# Python version >= 3.9
+
+pandas>=1.5.0
+matplotlib>=3.7.0
